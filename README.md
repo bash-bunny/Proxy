@@ -8,6 +8,7 @@ Type python -h to get help
 To use it:
 
 python getProxys.py -t <type of the proxy>
+  
   Accepted types:
     http
     https
