@@ -15,6 +15,7 @@ python getProxys.py -t <type of the proxy>
     socks5
 
 Another options are:
+
   -a for anonimity proxies, the options are:
       transparent
       anonymous
